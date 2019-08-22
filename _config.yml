@@ -1,13 +1,13 @@
 # Site
-repository: tikam02.github.io/portfolio
-favicon: images/travis.png  
+# repository: 
+# favicon: images/travis.png  
 
 # Personal info
 name: Tikam Alma
-title: Full Stack Developer
+title:  Full Stack Developer
 email: tikamalma1@gmail.com
 phone: +91 8154940247
-website: Your website (eg. https://google.com)(optional)
+website: https://tikam02.github.io/portfolio/
 
 # Social links
 twitter_username: n3ur0mancer
@@ -24,7 +24,7 @@ googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image:  images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
