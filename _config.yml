@@ -26,13 +26,12 @@ googleplus_username: +jekyll
 # about_title: About Me (Use this to override about section title)
 about_profile_image:  images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+As an ambitious and hard-working individual, I am often recognized for my commitment and ability by highly respected companies. 
+I handle multiple tasks on a daily basis competently, working well under the pressure. Frequent acknowledgment of my contribution from senior management illustrates my potential value to your company. 
+I would welcome the opportunity to discuss my suitability in more detail.Even though I take my work seriously, I do have a good sense of humour.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+
+
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -46,6 +45,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
+  
   This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
   Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
