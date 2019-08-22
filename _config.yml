@@ -1,6 +1,6 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+repository: tikam02.github.io/portfolio
+favicon: images/travis.png  
 
 # Personal info
 name: Tikam Alma
@@ -16,7 +16,7 @@ dribbble_username: jekyll
 facebook_username: jekyll
 flickr_username: jekyll
 instagram_username: jekyll
-linkedin_username: tikam-alma-993225b8/
+linkedin_username: tikam-alma-993225b8
 xing_username: jekyll
 pinterest_username: jekyll
 youtube_username: jekyll
