@@ -14,16 +14,12 @@ twitter_username: n3ur0mancer
 github_username:  Tikam02
 linkedin_username: tikam-alma-993225b8
 resume: 
-medium: @TikamAlma
+medium: TikamAlma
 
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image:  images/profile.png
-about_content: | # this will include new lines to allow paragraphs
-As an ambitious and hard-working individual, I am often recognized for my commitment and ability by highly respected companies. 
-I handle multiple tasks on a daily basis competently, working well under the pressure. Frequent acknowledgment of my contribution from senior management illustrates my potential value to your company.
-A key strength is communication; building strong relationships with people in order to deliver the best results. 
-I would welcome the opportunity to discuss my suitability in more detail.Even though I take my work seriously, I do have a good sense of humour.
+about_content: As an ambitious and hard-working individual, I am often recognized for my commitment and ability by highly respected companies. I handle multiple tasks on a daily basis competently, working well under the pressure. Frequent acknowledgment of my contribution from senior management illustrates my potential value to your company.A key strength is communication; building strong relationships with people in order to deliver the best results.I would welcome the opportunity to discuss my suitability in more detail.Even though I take my work seriously, I do have a good sense of humour.
 
 
 
