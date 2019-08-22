@@ -1,6 +1,43 @@
 # Project template
 - layout: top-middle
-  name: Project name
+  name: Online Trending 
+  github: https://github.com/Tikam02/Online-Trending
+  quote: >
+    An online Trend Aggregator app that updates user every 5 to 10 minutes latest artciles and trends category wise.
+  description: | # this will include new lines to allow paragraphs
+    - Designed Articles,news and Trend aggregator platform to display trends across internet
+    - Django Fullstack + Cronjobs
+    - To implement a Full-Stack REST API framework with crawling engine.
+
+- layout: top-middle
+  name: Photon
+  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description about the work on/with the project
+
+- layout: top-middle
+  name: Wine Shop
+  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description about the work on/with the project
+
+- layout: top-middle
+  name: Blog
+  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description about the work on/with the project
+
+- layout: top-middle
+  name: Crowd Estimation
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >

@@ -1,10 +1,41 @@
 # Experience template
+
+- layout: left
+  company: DAIICT
+  link: https://www.daiict.ac.in/
+  github: 
+  job_title: Summer Research Internship
+  dates: Jan 2019 - June 2019
+  quote: >
+   Dhirubhai Ambani Institute of Information and Communication Technology
+  description: | # this will include new lines to allow paragraphs
+    - Developed anomaly detection engine to detect attacks in real-time
+    - Web Applications Attacks Detection from web requests using Autoencoders RNN architecture
+    - Research paper to be published
+
+
+- layout: left
+  company: AMNEX
+  link: https://amnex.com/
+  github: https://github.com/Tikam02/CrowdEstimation
+  job_title: Machine Learning  Engineer
+  dates: May 2018 - July 2018
+  quote: >
+   Amnex Infotech.
+  description: | # this will include new lines to allow paragraphs
+    - Developed crowd density estimation model to detect Crowd Density
+    - Implemented and Experimented various research papers to get optimized result.
+    - Implemented various CNN Architectures for Experiments and Results.
+
 - layout: left
   company: OWASP
-  link: Link to company (optional)
+  link: https://www.owasp.org
+  github: https://github.com/owtf/owtf
   job_title: Security Engineer
   dates: May 2017 - July 2017
   quote: >
-   Short description of the company (optional)
+   Open Web Appliaction Security Project
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    - Integrated Automated scanning tools in Kali Linux to the OWTF Framework
+    - Fixed SSH connection module in OWTF
+    - Framework vulnerability testing and Reports
