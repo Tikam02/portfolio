@@ -35,11 +35,11 @@ about_content: As an ambitious and hard-working individual, I am often recognize
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+more_content: |
+  Creative mind with Sketching and Portrait drwaing skills. |
+  Curious personality lead me to the **Bug Bounty Hunting**.|
+  Basketball and Adventure seeker
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true

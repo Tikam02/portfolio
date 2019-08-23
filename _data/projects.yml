@@ -11,36 +11,43 @@
 
 - layout: top-middle
   name: Photon
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  link: 
+  github: 
   quote: >
-    Short overview of the project (optional)
+     Photo Gallery implemeted on  Vue.js + Go
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+   - Realtime photo feed using Pusher Channels, GO and a little Vue.js
+   - Photo Portfolio Fullstack web App
 
 - layout: top-middle
   name: Wine Shop
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  link: 
+  github: https://github.com/Tikam02/Wine-Shop
   quote: >
-    Short overview of the project (optional)
+    Wine Reccomendation Engine - Implemented on Django and Bootstrap 
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    - Designed Machine Learning based recommendation engine using K-means clustering algorithm
+    - Python’s Numpy and keras + Django Full-Stack
+    - Purpose:Learning and implementation of basic ML algorithms.
 
 - layout: top-middle
   name: Blog
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  link: 
+  github: https://github.com/Tikam02/Blog
   quote: >
-    Short overview of the project (optional)
+     Fully Functional Blog implemented on Django+Bootstrap 4 Stack
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    - A fullstack Blog Web App with CMS
+    - Secure authenitication
+    - Blog Dashboard and analytics
 
 - layout: top-middle
-  name: Crowd Estimation
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Crowd Density Estimation
+  link: 
+  github: https://github.com/Tikam02/CrowdEstimation
   quote: >
-    Short overview of the project (optional)
+    Crowd Density Estimation Using Deep Learning
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    - Developed Deep-Learning model and Algorithm to estimate crowd density and count people in crowd.
+    - Keras and Tensorflow
+    - Implement Surveillance’s system for large crowds
