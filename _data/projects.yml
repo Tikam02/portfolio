@@ -1,9 +1,20 @@
 # Project template
 - layout: top-middle
+  name: Node-Project-Kube
+  github: https://github.com/Tikam02/Node-project-kube
+  quote: >
+    An Full-Stack WebApp Developed  with Node+MongoDB+Express.js, Deployed on Kubernetes Clusters.
+  description: | # this will include new lines to allow paragraphs
+    - Developed Full-Stack WebApp and containerized it with Docker.
+    - Deployed containerized docker image to Kubernetes,started microservices.
+    - Continuously monitoring Kubernetes Clusters. wth Prometheus and Grafana.
+
+
+- layout: top-middle
   name: Online Trending 
   github: https://github.com/Tikam02/Online-Trending
   quote: >
-    An online Trend Aggregator app that updates user every 5 to 10 minutes latest artciles and trends category wise.
+    An online Trend Aggregator app that updates user every 5 to 10 minutes latest articles and trends category wise.
   description: | # this will include new lines to allow paragraphs
     - Designed Articles,news and Trend aggregator platform to display trends across internet
     - Django Fullstack + Cronjobs
@@ -14,9 +25,9 @@
   link: 
   github: 
   quote: >
-     Photo Gallery implemeted on  Vue.js + Go
+     Photo Gallery implemented on  Vue.js + Go
   description: | # this will include new lines to allow paragraphs
-   - Realtime photo feed using Pusher Channels, GO and a little Vue.js
+   - Real time photo feed using Pusher Channels, GO and a little Vue.js
    - Photo Portfolio Fullstack web App
 
 - layout: top-middle
@@ -24,7 +35,7 @@
   link: 
   github: https://github.com/Tikam02/Wine-Shop
   quote: >
-    Wine Reccomendation Engine - Implemented on Django and Bootstrap 
+    Wine Recommendation Engine - Implemented on Django and Bootstrap 
   description: | # this will include new lines to allow paragraphs
     - Designed Machine Learning based recommendation engine using K-means clustering algorithm
     - Python’s Numpy and keras + Django Full-Stack
@@ -38,7 +49,7 @@
      Fully Functional Blog implemented on Django+Bootstrap 4 Stack
   description: | # this will include new lines to allow paragraphs
     - A fullstack Blog Web App with CMS
-    - Secure authenitication
+    - Secure authentication
     - Blog Dashboard and analytics
 
 - layout: top-middle
