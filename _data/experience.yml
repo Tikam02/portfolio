@@ -1,5 +1,20 @@
 # Experience template
 
+
+
+- layout: left
+  company: ATLAN
+  link: https://atlan.com/
+  github: 
+  job_title: DevOps Engineer
+  dates: Jan 2020 - December 2020
+  quote: >
+   Atlan
+  description: | # this will include new lines to allow paragraphs
+    - Developed and built centralized multi-tenant observability architecture
+    - Mircoservices application development and deployment on kubernetes
+    - Major tech-stack grfana,promtheus,loki,fluentd and rancher on kubernetes
+
 - layout: left
   company: DAIICT
   link: https://www.daiict.ac.in/
