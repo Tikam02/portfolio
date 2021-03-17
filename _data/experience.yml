@@ -32,7 +32,7 @@
 - layout: left
   company: AMNEX
   link: https://amnex.com/
-  github: https://github.com/Tikam02/CrowdEstimation
+  github: Tikam02/CrowdEstimation
   job_title: Machine Learning  Engineer
   dates: May 2018 - July 2018
   quote: >
@@ -45,7 +45,7 @@
 - layout: left
   company: OWASP
   link: https://www.owasp.org
-  github: https://github.com/owtf/owtf
+  github: owtf/owtf
   job_title: Security Engineer
   dates: May 2017 - July 2017
   quote: >
